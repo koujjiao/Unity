@@ -7,7 +7,7 @@ public class Ballabsort : MonoBehaviour {
     // Use this for initialization
 
     //当距离小于distan 吸附
-    private float distan = 0.05f;
+    private float ABSORT_DISTANCE = 0.05f;
 
     //当前碰撞触发器
     //private GameObject collidingObject;
